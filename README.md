@@ -108,10 +108,13 @@ Designed for scalability and adaptability, Marina can be deployed for individual
 
 ## How Marina Works (Tuya-Integrated Architecture)
 
+Marina is built directly on the TuyaOpen Platform, leveraging TuyaOS, Tuya AI open-source packages, and Tuya Cloud services to deliver an end-to-end AI and IoT lake intelligence system. The system follows Tuya’s philosophy of modular hardware stacking, edge AI execution, and cloud-assisted intelligence, ensuring rapid prototyping, scalability, and commercial readiness.
+
+
+
+
 <img width="955" height="439" alt="image" src="https://github.com/user-attachments/assets/3470258c-8d0f-4d7b-ac19-e6115fe6f169" />
 
-
-Marina is built directly on the TuyaOpen Platform, leveraging TuyaOS, Tuya AI open-source packages, and Tuya Cloud services to deliver an end-to-end AI and IoT lake intelligence system. The system follows Tuya’s philosophy of modular hardware stacking, edge AI execution, and cloud-assisted intelligence, ensuring rapid prototyping, scalability, and commercial readiness.
 
 ### 1. Hardware and TuyaOS Device Layer
 At the foundation, Marina runs on a Tuya AI development board such as the Tuya T5 AI-CORE, powered by TuyaOS, Tuya’s commercial-grade IoT operating system.
