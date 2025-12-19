@@ -1,4 +1,4 @@
-# CodeCraze + Tuya AI Innovators Hackathon 2025
+# MARINA - AI-enabled water systems
 
 ## Overview
 Marina is an AI-enabled IoT platform designed to monitor, analyze, and manage freshwater ecosystems such as lakes and reservoirs in real time. By combining sensor-driven data collection with intelligent analytics, Marina provides continuous visibility into water health, enabling early detection of abnormal conditions and supporting timely, informed decision-making.
@@ -198,8 +198,6 @@ Marina fully integrates:
 | Automation and Actuation | Enable real-world actions via Tuya | Marina integrates Tuya Automation Engine to trigger alerts, aerators, pumps, and smart infrastructure |
 | OTA and Lifecycle Updates | Support remote updates and maintenance | Marina uses Tuya OTA mechanisms for AI model updates, configuration tuning, and feature rollout |
 | Cross-Platform Visualization | Use Tuya apps or dashboards | Marina displays insights via Tuya Smart App extensions and Tuya Web Console dashboards |
-| Commercial Readiness | Projects should be scalable and product-ready | Marina is designed as a deployable, modular lake intelligence platform suitable for municipal and smart-city adoption |
-| Hackathon Demo Readiness | Simple, clear demo expected | Marina supports simulated or real sensor input, making it easy to demonstrate on Tuya hardware within hackathon timelines |
 
 ## Outcomes
 - Continuous real-time visibility into lake water quality and ecosystem health
