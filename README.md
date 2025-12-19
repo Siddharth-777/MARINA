@@ -10,13 +10,11 @@ Built with scalability, adaptability, and practical deployment in mind, Marina c
 ## Problem Statement
 Freshwater lakes and reservoirs are increasingly impacted by pollution, unmonitored inflows, and environmental stress, resulting in declining water quality, ecosystem imbalance, and long-term sustainability risks. Existing monitoring approaches rely heavily on manual sampling, periodic testing, or basic sensor setups, which fail to provide continuous real-time visibility and often detect issues only after irreversible damage has occurred. The absence of intelligent analysis, early anomaly detection, and predictive insight forces authorities to adopt reactive and costly remediation strategies, rather than proactive water management.
 
-**Key challenges include:**
-- Lack of real-time, continuous water quality monitoring
-- Delayed detection of pollution and abnormal parameter shifts
-- No intelligent or predictive analysis of sensor data
-- Limited decision support for timely intervention and remediation
+<img width="2000" height="702" alt="image" src="https://github.com/user-attachments/assets/c953fb76-90ac-4d53-b5d8-1e20a8f0327e" />
+
 
 ## Case Studies
+<img width="888" height="554" alt="image" src="https://github.com/user-attachments/assets/ca626689-e016-4d4a-a844-e3cbbdada63e" />
 
 ### India - Recent Cases
 
@@ -26,7 +24,7 @@ Freshwater lakes and reservoirs are increasingly impacted by pollution, unmonito
 - Impact: 3 confirmed deaths, over 20 hospitalized with severe diarrhoea and vomiting
 - Failure Point: No real-time water quality monitoring; contamination detected only after fatalities
 - Relevance: Demonstrates how delayed detection in urban water systems can directly lead to loss of life
-
+  
 #### Bengaluru Apartment Water Contamination Death (2025)
 - Location: Bengaluru, Karnataka
 - Cause: Contaminated borewell and storage tank water in a gated apartment complex
@@ -110,6 +108,9 @@ Designed for scalability and adaptability, Marina can be deployed for individual
 
 ## How Marina Works (Tuya-Integrated Architecture)
 
+<img width="955" height="439" alt="image" src="https://github.com/user-attachments/assets/3470258c-8d0f-4d7b-ac19-e6115fe6f169" />
+
+
 Marina is built directly on the TuyaOpen Platform, leveraging TuyaOS, Tuya AI open-source packages, and Tuya Cloud services to deliver an end-to-end AI and IoT lake intelligence system. The system follows Tuya’s philosophy of modular hardware stacking, edge AI execution, and cloud-assisted intelligence, ensuring rapid prototyping, scalability, and commercial readiness.
 
 ### 1. Hardware and TuyaOS Device Layer
@@ -173,6 +174,10 @@ Using Tuya’s OTA and update mechanisms, Marina supports remote AI model update
 
 ### 9. Developer Acceleration (Vibe Coding and TuyaOpen)
 Marina is designed to leverage Tuya’s Vibe Coding tools for rapid feature iteration, low-code device logic, and fast AI experimentation. This reduces development complexity and time-to-demo, a key evaluation metric in the hackathon.
+
+<img width="1908" height="1032" alt="image" src="https://github.com/user-attachments/assets/d4cae850-ec7c-48cf-a011-8eab2c623c5c" />
+
+
 
 ### End-to-End Tuya Alignment Summary
 Marina fully integrates:
