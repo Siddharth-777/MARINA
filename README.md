@@ -297,3 +297,5 @@ Marina fully integrates:
 
 ### Partner Ecosystem and Scaling
 - Collaboration with Tuya ecosystem partners for hardware manufacturing, deployment, and maintenance, enabling rapid geographic scaling
+
+<img width="2000" height="1626" alt="image" src="https://github.com/user-attachments/assets/9fdc8f4d-b54c-4259-a35c-a75e5dbb0258" />
